@@ -1,7 +1,7 @@
 # Summary of Self Study Progress
-## Completed
+**Completed**
 - UCB CS 61A, 2022 Fall: [Repo](https://github.com/ShupeiLi/CS61A).
 
-## In Progress
+**In Progress**
 - UCB CS 61B, 2018 Spring.
 - MIT 6.042J, 2010 Fall.
