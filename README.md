@@ -1,2 +1,7 @@
-# 2023-ultracs-challenge
-Self study program in 2023.
+# Summary of Self Study Progress
+## Completed
+- UCB CS 61A, 2022 Fall: [Repo](https://github.com/ShupeiLi/CS61A).
+
+## In Progress
+- UCB CS 61B, 2018 Spring.
+- MIT 6.042J, 2010 Fall.
